@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0d1117&height=180&section=header&text=SOHAM%20SHEWANI&fontSize=42&fontColor=06b6d4&animation=fadeIn&fontAlignY=40&desc=DISTRIBUTED%20SYSTEMS%20%7C%20LOW-LATENCY%20RUNTIMES&descAlignY=62&descSize=15&descAlign=50" width="100%" />
+</div>
 ```text
            .:ldkOOOOOkdl:.               soham@arch-runtime
        .cx0XNNNNNNNNNNNNNNX0xc.          ------------------
